@@ -1,0 +1,3 @@
+fib bundle --output bbb.txt  --language cpp 
+dotnet publish -o publish
+fib bundle --output bunb.txt  --language all --note true --author "tzofia ben zion" --remove-empty-lines true
